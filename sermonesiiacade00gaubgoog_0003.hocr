@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sermonesiiacade00gaubgoog_0003.png"; bbox 0 0 653 1114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 451 322 498">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 451 322 498">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 451 322 498; baseline 0 616"><span class='ocrx_word' id='word_1_1' title='bbox 194 451 322 498; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 256 574 376 622">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 256 574 376 622">
+     <span class='ocr_line' id='line_1_2' title="bbox 270 589 358 603; baseline -0.045 0"><span class='ocrx_word' id='word_1_2' title='bbox 270 589 358 603; x_wconf 71' lang='grc' dir='ltr'>ιιιυτοιιιοιι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 256 574 376 622; baseline -0.033 -2"><span class='ocrx_word' id='word_1_3' title='bbox 256 613 260 621; x_wconf 62' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 282 607 347 620; x_wconf 67' lang='lat' dir='ltr'>unum-n.</span> <span class='ocrx_word' id='word_1_5' title='bbox 371 574 376 622; x_wconf 50' lang='lat'>³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 265 623 364 658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 265 623 364 658">
+     <span class='ocr_line' id='line_1_4' title="bbox 265 623 364 658; baseline -0.02 -15"><span class='ocrx_word' id='word_1_6' title='bbox 265 631 267 633; x_wconf 84' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 276 623 364 658; x_wconf 44' lang='lat' dir='ltr'>“QG-⁴(</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
